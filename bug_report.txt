@@ -1,1 +1,10 @@
-
+ID-1
+Title:Съехала верстка списка новостей в разделе "Новости"
+Enviroment:Win 7, Opera 9.0.4447.83
+Preconditional:Перейти на сайт https://bilim-oral.gov.kz/ru/новости2.html   
+Steps to reproduce:1.Перейти в раздел " Новости".
+Actual result:Съехала верстка списка новостей в разделе "Новости"
+Expected result:Список новостей размещены согласно верстке сайта
+Severity:Major
+Priority:Medium
+Attachment:https://drive.google.com/file/d/124TVJdROu-SokN4DN4cIEwXqW8yIu7va/view
